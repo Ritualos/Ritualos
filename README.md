@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Konstantinos Antzas (he/him) and I am a student at the University of Salford. 
+I study Games Design and Production.
+I am still a begginer at coding and I'm slowly improving..
+You can contact me at konstantinpsn1@gmail.com
+Have a nice day :)
+
+
+
 
 <!--
 **Ritualos/Ritualos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
