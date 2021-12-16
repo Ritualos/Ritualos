@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello there 👋
 My name is Konstantinos Antzas (he/him) and I am a student at the University of Salford. 
-I study Games Design and Production.
-I am still a begginer at coding and I'm slowly improving..
-You can contact me at konstantinpsn1@gmail.com
+- I study Games Design and Production.
+- Up untill now I have only used C# on a couple Unity projects.
+- I am still a begginer at coding and I'm slowly learning more...
+- My contact email is konstantinpsn1@gmail.com
 Have a nice day :)
 
 
