@@ -1,5 +1,5 @@
 ### Hello there 👋
-My name is Konstantinos Antzas (he/him) and I am a student at the University of Salford. 
+My name is Konstantinos Antzas and I am a student at the University of Salford. 
 - I study Games Design and Production.
 - Up untill now I have only used C# on a couple Unity projects.
 - I am still a begginer at coding and I'm slowly learning more...
